@@ -1,7 +1,6 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aellas&repo=Runescape-Name-Checker"/>
 
-
 ### Languages and Tools:
-[Linux](https://www.linux.org/)
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 
 
