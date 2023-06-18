@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning <strong>Python</strong>
 - ⚡ Fun fact: I love cats! 🐈
 
-  ### Languages and Tools:
-  [Linux](https://www.linux.org/)
+### Languages and Tools:
+[Linux](https://www.linux.org/)
 
