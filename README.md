@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aellas&repo=Runescape-Name-Checker"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aellas&repo=Easy-Nextcord-Bot-Template"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aellas&repo=Runescape-Name-Checker"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aellas&repo="/>
 
 ### Languages and Tools:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50> 
